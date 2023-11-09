@@ -9,6 +9,7 @@
 
             List<string> list = new List<string>();
             Console.WriteLine(list.Count);
+
         }
     }
 }
