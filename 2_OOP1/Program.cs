@@ -23,6 +23,7 @@
 
             //int totalResult = productManager.Sum(3,6);
             //Console.WriteLine(totalResult * 2);
+
         }
     }
 }
