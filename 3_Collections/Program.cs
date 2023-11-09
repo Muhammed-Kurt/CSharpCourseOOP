@@ -24,6 +24,7 @@
             names2.Add("İlker"); //Ekleme işlemi için Add metodunu çağırdık.
             Console.WriteLine(names2[4]);
             Console.WriteLine(names2[0]);
+
             #endregion
             #endregion
         }
