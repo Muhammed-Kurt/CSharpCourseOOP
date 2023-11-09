@@ -31,6 +31,7 @@
             customerManager1.Add(customer2);
             customerManager1.Add(individualCustomer1);
             customerManager1.Add(corporateCustomer1);
+
         }
     }
 }
