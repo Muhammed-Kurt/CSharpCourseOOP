@@ -19,7 +19,6 @@
             numbers1 = numbers2;
             numbers2[0] = 999;
             //numbers1[0] ?? => 999
-
             #endregion
 
         }
