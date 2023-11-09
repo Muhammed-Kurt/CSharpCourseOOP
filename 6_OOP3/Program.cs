@@ -27,7 +27,6 @@
 
             //applicationManager.ProvideCreditPreliminaryInformation(credits);
 
-
         }
     }
 }
