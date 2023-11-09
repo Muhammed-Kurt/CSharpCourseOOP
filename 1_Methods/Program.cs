@@ -54,7 +54,6 @@
             shoppingCartManager.Add2(2, "Apple", 15, "Amasya Apple", 10);
             shoppingCartManager.Add2(3, "Watermelon", 80, "Diyarbakır Watermelon", 20);
             #endregion
-
             #endregion
 
         }
